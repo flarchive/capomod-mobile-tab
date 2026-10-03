@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of capomod/mobile-tab.** Not for installation: use [Packagist](https://packagist.org/packages/capomod/mobile-tab) or the [upstream repository](https://github.com/zhujia18/CapoModMobileTab).
 
-**0** versions archived · Latest: [`0.0.2`](https://github.com/flarchive/capomod-mobile-tab/tree/archive/v0.0.2) · License: `MIT` · Flarum: `^1.2.0`
+**2** versions archived · Latest: [`0.0.2`](https://github.com/flarchive/capomod-mobile-tab/tree/archive/v0.0.2) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2022-11-26 | `^1.2.0` | [Browse](https://github.com/flarchive/capomod-mobile-tab/tree/archive/v0.0.1) |
+| `0.0.2` | 2022-11-27 | `^1.2.0` | [Browse](https://github.com/flarchive/capomod-mobile-tab/tree/archive/v0.0.2) |
 
 Catalog entry: [packages/capomod-mobile-tab.json](https://github.com/flarchive/archive-index/blob/main/packages/capomod-mobile-tab.json)
 
